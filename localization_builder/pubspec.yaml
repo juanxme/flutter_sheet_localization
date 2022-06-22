@@ -1,11 +1,11 @@
 name: localization_builder
 description: A data class builder for localization.
 homepage: https://github.com/aloisdeniel/flutter_sheet_localization
-version: 0.15.7
+version: 0.16.0
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=2.0.0"
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
